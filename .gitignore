@@ -2,8 +2,7 @@
 # .gitignore
 build/
 compile_commands.json
-.cache/
-.clangd/
+.cache/*
 **/*.idx
 *.swp
 *.o
