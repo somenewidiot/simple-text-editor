@@ -1,4 +1,4 @@
-#include "editor.hpp"
+#include "editor/editor.hpp"
 #include <QApplication>
 
 int main(int argc, char *argv[]) {

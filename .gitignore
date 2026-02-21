@@ -1,9 +1,16 @@
-# PLEASE DON'T EDIT THIS FILE UNLESS YOU ABSOLUTELY NEED TO!
 # .gitignore
-build/
-compile_commands.json
-.cache/*
+# PLEASE DON'T EDIT THIS FILE UNLESS YOU ABSOLUTELY NEED TO INCLUDE MORE FILES TO BE BANISHED!!!
+
+**/build/
+
+**/compile_commands.json
+
+**/*.cache/*
+
 **/*.idx
-*.swp
-*.o
-*.tmp
+
+**/*.swp
+
+**/*.o
+
+**/*.tmp
