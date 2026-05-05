@@ -14,3 +14,9 @@
 **/*.o
 
 **/*.tmp
+
+**/*.clangd
+
+**/*.clang-format
+
+**/*.clang-tidy
